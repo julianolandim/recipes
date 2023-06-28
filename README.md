@@ -1,2 +1,2 @@
 # recipes
-Site para cadastros de receitas de colinaria
+Site para cadastros de receitas de colinaria.
